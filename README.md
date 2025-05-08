@@ -1,6 +1,9 @@
-# Módulo 31
-Arquivos para os streamlit's do Módulo 31, do curso de Ciências de Dados da EBAC
+Repositório criado para armazenar os arquivos da quinta fase do do curso de Ciência de dados da EBAC. As pastas em "main" contêm os arquivos de cada aula e os exercícios respondidos de cada uma, nomeados como se segue.
 
-Tarefa 1:
+Módulo 32:
 
-Tarefa 2:
+Módulo 33:
+
+Módulo 34:
+
+Módulo 35:
