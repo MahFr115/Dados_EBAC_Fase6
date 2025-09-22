@@ -2,8 +2,8 @@ Reposit처rio criado para armazenar os arquivos da quinta fase do do curso de Ci�
 
 M처dulo 32: Tarefa
 
-M처dulo 33:
+M처dulo 33: Tarefa
 
-M처dulo 34:
+M처dulo 34: Tarefa
 
-M처dulo 35:
+M처dulo 35: Tarefa
