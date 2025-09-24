@@ -6,4 +6,4 @@ Módulo 33: Tarefa
 
 Módulo 34: Tarefa
 
-Módulo 35: Tarefa
+Módulo 35: Tarefa | Projeto
